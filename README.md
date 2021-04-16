@@ -13,4 +13,5 @@
 | 7  | Split Landing Page    | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/SplitLandingPage-7/index.html)   |
 | 8  | Form Wave Animation   | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/FormWaveAnimation-8/index.html)  |
 | 9  | Sound Board           | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/SoundBoard-9/index.html)         |
-| 10 | Dad Jokes             | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/DadJokes-9/index.html)           |
+| 10 | Dad Jokes             | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/DadJokes-10/index.html)          |
+| 11 | Event KeyCodes        | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/EventKeyCodes-11/index.html)     |
