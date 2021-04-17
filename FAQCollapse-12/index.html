@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ Collapse</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Часто задаваемые вопросы</h1>
+    <div class="faq-container">
+        <div class="faq active">
+            <h3 class="faq-title">
+                Какую проблему решает react?
+            </h3>
+
+            <p class="faq-text">
+                Самые «тяжелые» операции в web — работа с DOM. Реакт оптимизирует эту работу. Как? Virtual DOM + обновление страницы за минимум «телодвижений».
+            </p>
+
+            <button class="faq-toggle">
+                <i class="fas fa-chevron-down"></i>
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+        <div class="faq">
+            <h3 class="faq-title">
+                Что будет если вызвать this.setState в render методе компонента?
+            </h3>
+
+            <p class="faq-text">
+                Будут проблемы. Реакт перерисовывает компонент, если state изменился. setState === ситуации «стейт изменился», а «реакт перерисовывает компонент» === render метод. Получается, что будет циклическая перерисовка.
+            </p>
+
+            <button class="faq-toggle">
+                <i class="fas fa-chevron-down"></i>
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+        <div class="faq">
+            <h3 class="faq-title">
+                Зачем нужен componenWIllUnmount, приведите пример
+            </h3>
+
+            <p class="faq-text">
+                CWU подходит для «приборки». Например, у вас есть компонент, который реагирует на onsize (изменение размеров) страницы. Затем вы планируете перейти куда-то, где этого компонента нет. Он будет (will) «размонтирован» (unmount), значит в этот момент нужно снять «слушателя» на ресайз, так как он вам более не нужен.
+            </p>
+
+            <button class="faq-toggle">
+                <i class="fas fa-chevron-down"></i>
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+        <div class="faq">
+            <h3 class="faq-title">
+                Как можно удобно «отлаживать» чужой код приложения, написанного на react (намек в сторону React devtools)
+            </h3>
+
+            <p class="faq-text">
+                Хороший и легкий вопрос на «поболтать». Отладка с помощью console.log, debugger, react devtools, выносом кода компонента на чистый проект и тд тп. Вариантов масса.
+            </p>
+
+            <button class="faq-toggle">
+                <i class="fas fa-chevron-down"></i>
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
