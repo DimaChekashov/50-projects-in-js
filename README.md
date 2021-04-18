@@ -17,3 +17,4 @@
 | 11  | Event KeyCodes       | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/EventKeyCodes-11/index.html)      |
 | 12  | FAQ Collapse         | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/FAQCollapse-12/index.html)        |
 | 13  | Random Choice Picker | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/RandomChoicePicker-13/index.html) |
+| 14  | Animated Navigation  | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/AnimatedNavigation-14/index.html) |
