@@ -19,3 +19,4 @@
 | 13  | Random Choice Picker | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/RandomChoicePicker-13/index.html)  |
 | 14  | Animated Navigation  | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/AnimatedNavigation-14/index.html)  |
 | 15  | Incrementing Counter | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/IncrementingCounter-15/index.html) |
+| 16  | Drink Water          | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/DrinkWater-15/index.html)          |
