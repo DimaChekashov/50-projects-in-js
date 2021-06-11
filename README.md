@@ -21,4 +21,5 @@
 | 15  | Incrementing Counter | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/IncrementingCounter-15/index.html) |
 | 16  | Drink Water          | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/DrinkWater-16/index.html)          |
 | 17  | Movie App            | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/MovieApp-17/index.html)            |
-| 19  | Background Slider    | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/BackgroundSlider-18/index.html)    |
+| 18  | Background Slider    | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/BackgroundSlider-18/index.html)    |
+| 19  | Theme Clock          | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/ThemeClock-19/index.html)          |
