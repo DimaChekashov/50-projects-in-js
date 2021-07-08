@@ -23,3 +23,4 @@
 | 17  | Movie App            | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/MovieApp-17/index.html)            |
 | 18  | Background Slider    | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/BackgroundSlider-18/index.html)    |
 | 19  | Theme Clock          | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/ThemeClock-19/index.html)          |
+| 20  | Button Ripple Effect | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/ButtonRippleEffect-20/index.html)  |
