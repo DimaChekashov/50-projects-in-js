@@ -24,3 +24,4 @@
 | 18  | Background Slider    | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/BackgroundSlider-18/index.html)    |
 | 19  | Theme Clock          | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/ThemeClock-19/index.html)          |
 | 20  | Button Ripple Effect | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/ButtonRippleEffect-20/index.html)  |
+| 21  | Drag N Drop          | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/DragNDrop-21/index.html)           |
