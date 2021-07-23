@@ -28,4 +28,5 @@
 | 22  | Drawing App          | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/DrawingApp-22/index.html)          |
 | 23  | Kinetic CSS Loader   | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/KineticCSSLoader-23/index.html)    |
 | 24  | Content Placeholder  | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/ContentPlaceholder-24/index.html)  |
+| 25  | Sticky Navbar        | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/StickyNavbar-25/index.html)        |
 
