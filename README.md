@@ -32,3 +32,4 @@
 | 26  | Double Vertical Slider | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/DoubleVerticalSlider-26/index.html) |
 | 27  | Toast Notification     | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/ToastNotification-27/index.html)    |
 | 28  | Github Profiles        | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/GithubProfiles-28/index.html)       |
+| 29  | Double Heart Click     | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/DoubleHeartClick-29/index.html)     |
