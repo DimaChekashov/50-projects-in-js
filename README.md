@@ -30,3 +30,4 @@
 | 24  | Content Placeholder    | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/ContentPlaceholder-24/index.html)   |
 | 25  | Sticky Navbar          | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/StickyNavbar-25/index.html)         |
 | 26  | Double Vertical Slider | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/DoubleVerticalSlider-26/index.html) |
+| 27  | Toast Notification     | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/ToastNotification-27/index.html)    |
