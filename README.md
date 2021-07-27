@@ -34,3 +34,4 @@
 | 28  | Github Profiles        | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/GithubProfiles-28/index.html)       |
 | 29  | Double Heart Click     | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/DoubleHeartClick-29/index.html)     |
 | 30  | Auto Text Effect       | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/AutoTextEffect-30/index.html)       |
+| 31  | Password Generator     | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/PasswordGenerator-31/index.html)    |
