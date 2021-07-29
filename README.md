@@ -37,3 +37,4 @@
 | 31  | Password Generator         | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/PasswordGenerator-31/index.html)       |
 | 32  | Good Cheap Fast Checkboxes | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/GoodCheapFastCheckboxes-32/index.html) |
 | 33  | Notes App                  | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/NotesApp-33/index.html)                |
+| 34  | Animated Countdown         | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/AnimatedCountdown-34/index.html)       |
