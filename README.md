@@ -40,3 +40,4 @@
 | 34  | Animated Countdown         | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/AnimatedCountdown-34/index.html)       |
 | 35  | Image Carousel             | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/ImageCarousel-35/index.html)           |
 | 36  | Hoverboard                 | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/Hoverboard-36/index.html)              |
+| 37  | Pokedex                    | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/Pokedex-37/index.html)                 |
