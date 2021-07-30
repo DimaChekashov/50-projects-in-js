@@ -1,54 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap");
+
 * {
     box-sizing: border-box;
 }
 
 body {
     margin: 0;
-    font-family: Helvetica, sans-serif;
+    font-family: "Poppins", sans-serif;
+    background-color: #179cde;
 }
 
 .container {
-    max-width: 800px;
+    max-width: 400px;
     margin: 0 auto;
     padding: 30px 20px;
 }
 
 .block {
-    padding: 20px 40px 20px 20px;
-    border: 2px solid #179cde;
+    padding: 20px 20px 20px 20px;
+    background-color: #fff;
     border-radius: 10px;
-    box-shadow: 0px 0px 52px 9px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 52px 9px rgba(139, 0, 255, 0.4);
 }
 
 .title {
-    font-size: 3rem;
-    font-weight: 700;
-    margin-bottom: 30px;
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 0 0 20px;
     text-align: center;
-    color: #8c8c8c;
+    color: #1e0f2a;
 }
 
 .list {
-    font-size: 2rem;
+    font-size: 1.2rem;
+    list-style: none;
+    padding: 0;
 }
 
 .list li {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.list li::marker {
+    background-color: red;
+}
+
+.num {
+    width: 50px;
+    min-width: 50px;
+    height: auto;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #8b00ff;
+    color: #fff;
 }
 
 .list a {
-    border: 2px solid #179cde;
-    padding: 15px;
-    display: block;
+    border: 2px solid #8b00ff;
+    padding: 8.5px 15px;
+    display: flex;
+    align-items: center;
     text-decoration: none;
-    color: #179cde;
+    color: #1e0f2a;
     border-radius: 0 10px 10px 0;
     transition: all 0.2s ease 0.02s;
+    width: 100%;
 }
 .list a:hover {
     text-decoration: none;
     color: #fff;
-    background-color: #179cde;
+    background-color: #8b00ff;
 }
 
 @media (max-width: 500px) {
@@ -56,13 +79,42 @@ body {
         padding: 20px 20px 20px 10px;
     }
     .title {
-        font-size: 2rem;
+        font-size: 1.75rem;
     }
     .list {
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
     .list a {
         padding: 8px;
         font-size: 1.2rem;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 1200px) {
+    .container {
+        max-width: 700px;
+    }
+    .list {
+        font-size: 1rem;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 30px;
+    }
+    .list li {
+        margin: 0;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1200px;
+    }
+    .list {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 30px;
+    }
+    .list li {
+        margin: 0;
     }
 }
