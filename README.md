@@ -46,3 +46,4 @@
 | 40  | 3D Background Boxes          | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/3DBackgroundBoxes-40/index.html)          |
 | 41  | Verify Account UI            | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/VerifyAccountUI-41/index.html)            |
 | 42  | Live User Filter             | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/LiveUserFilter-42/index.html)             |
+| 43  | Feedback UI Design           | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/FeedbackUIDesign-43/index.html)           |
