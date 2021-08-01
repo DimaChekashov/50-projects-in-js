@@ -45,3 +45,4 @@
 | 39  | Password Strength Background | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/PasswordStrengthBackground-39/index.html) |
 | 40  | 3D Background Boxes          | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/3DBackgroundBoxes-40/index.html)          |
 | 41  | Verify Account UI            | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/VerifyAccountUI-41/index.html)            |
+| 42  | Live User Filter             | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/LiveUserFilter-42/index.html)             |
