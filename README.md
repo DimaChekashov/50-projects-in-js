@@ -47,3 +47,4 @@
 | 41  | Verify Account UI            | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/VerifyAccountUI-41/index.html)            |
 | 42  | Live User Filter             | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/LiveUserFilter-42/index.html)             |
 | 43  | Feedback UI Design           | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/FeedbackUIDesign-43/index.html)           |
+| 44  | Custom Range Slider          | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/CustomRangeSlider-44/index.html)          |
