@@ -43,3 +43,4 @@
 | 37  | Pokedex                      | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/Pokedex-37/index.html)                    |
 | 38  | Mobile Tab Navigation        | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/MobileTabNavigation-38/index.html)        |
 | 39  | Password Strength Background | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/PasswordStrengthBackground-39/index.html) |
+| 40  | 3D Background Boxes          | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/3DBackgroundBoxes-40/index.html)          |
