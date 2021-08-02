@@ -48,3 +48,4 @@
 | 42  | Live User Filter             | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/LiveUserFilter-42/index.html)             |
 | 43  | Feedback UI Design           | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/FeedbackUIDesign-43/index.html)           |
 | 44  | Custom Range Slider          | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/CustomRangeSlider-44/index.html)          |
+| 45  | Netflix Navigation           | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/NetflixNavigation-45/index.html)          |
