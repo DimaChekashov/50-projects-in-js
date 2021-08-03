@@ -52,3 +52,4 @@
 | 46  | Quiz App                     | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/QuizApp-46/index.html)                    |
 | 47  | Testimonial Box Switcher     | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/TestimonialBoxSwitcher-47/index.html)     |
 | 48  | Random Image Feed            | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/RandomImageFeed-48/index.html)            |
+| 49  | Todo List                    | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/TodoList-49/index.html)                   |
