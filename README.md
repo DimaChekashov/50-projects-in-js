@@ -53,3 +53,4 @@
 | 47  | Testimonial Box Switcher     | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/TestimonialBoxSwitcher-47/index.html)     |
 | 48  | Random Image Feed            | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/RandomImageFeed-48/index.html)            |
 | 49  | Todo List                    | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/TodoList-49/index.html)                   |
+| 50  | Insect Catch Game            | [Ссылка](https://dimachekashov.github.io/50-projects-in-js/InsectCatchGame-50/index.html)            |
